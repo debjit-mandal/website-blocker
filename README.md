@@ -1,4 +1,4 @@
-# website-blocker
+# Website Blocker
 A basic website blocker made using Python. 
 
 This script modifies the hosts file on your computer to redirect specific websites to the localhost IP address, effectively blocking access to those websites.
